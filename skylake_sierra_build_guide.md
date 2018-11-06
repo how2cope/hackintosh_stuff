@@ -1,6 +1,6 @@
 # Skylake Sierra build guide
 
-![about][<linktoimage>]
+![about][https://raw.githubusercontent.com/how2cope/hackintosh_stuff/master/images/about.png]
 
 
 ### My hardware:
