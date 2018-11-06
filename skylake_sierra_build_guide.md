@@ -21,9 +21,11 @@ The guide is written for High Sierra, but is perfectly usable for Sierra as well
 * Access to a legitimate copy of macOS Sierra, can be obtained in the [App Store](https://itunes.apple.com/us/app/macos-sierra/id1127487414?mt=12)
 * Kexts (Kernel EXTensions), some are general and some are  related to your hardware, I'll get into that later.
 
-### Preparing the virtual machine environment:
-* The virtual machine is in Russian by default, you can change this in the System Preferences.
-
+### Preparing VMware and the virtual machine environment:
+1. Unlock VMware to boot macOS using the Unlocker by DrDonk ([link](https://github.com/DrDonk/unlocker) & [link](https://www.insanelymac.com/forum/topic/335757-macos-unlocker-v30-for-vmware-workstation/))
+2. For USB 3.0 support: Install the [GenericUSBXHCI kext](https://sourceforge.net/projects/genericusbxhci/) to /System/Library/Extensions by dragging the kext into that folder.
+3. Repair the kext folder permissions using [Kext Utility](http://cvad-mac.narod.ru/index/0-4)
+4. Shut down the VM and set the USB controller in the VM settings to USB 3.0
 
 
 
