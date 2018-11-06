@@ -1,4 +1,5 @@
-# Skylake Sierra build guide without the need of an existing Mac computer or Hackintosh
+# Skylake Sierra build guide
+### without the need of an existing Mac computer or Hackintosh
 
 ![about](https://raw.githubusercontent.com/how2cope/hackintosh_stuff/master/images/about.png "about")
 
