@@ -1,4 +1,4 @@
-# Skylake Sierra build guide
+# Skylake Sierra build guide without the need of an existing Mac computer or Hackintosh
 
 ![about][https://raw.githubusercontent.com/how2cope/hackintosh_stuff/master/images/about.png]
 
@@ -18,4 +18,14 @@ The guide is written for High Sierra, but is perfectly usable for Sierra as well
 ### Prerequisites:
 * USB flash drive with 8+ gigs of storage (16 gigs recommended)
 * Access to a legitimate copy of macOS Sierra, can be obtained in the [App Store](https://itunes.apple.com/us/app/macos-sierra/id1127487414?mt=12)
-* Kexts (Kernel EXTensions), some are general and some are  related to your hardware.
+* Kexts (Kernel EXTensions), some are general and some are  related to your hardware, I'll get into that ramblings_of_a_hackintosher_a_sorta_brief_vanilla
+
+### Preparing the virtual machine environment:
+* The virtual machine is in Russian by default, you can change this in the System Preferences.
+
+
+
+
+
+### Creating the bootable USB
+I used a High Sierra virtual machine from RuTracker loaded into VMware Workstation on Linux to create my bootable USB.
